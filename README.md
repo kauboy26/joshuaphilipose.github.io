@@ -1,2 +1,0 @@
-# PhysicsFriend
-Physics-friend.com
