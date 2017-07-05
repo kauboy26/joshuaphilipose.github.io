@@ -1,0 +1,6 @@
+http://jquery.com/
+https://stackoverflow.com/questions/1772179/get-character-value-from-keycode-in-javascript-then-trim
+https://stackoverflow.com/questions/13175510/call-python-function-from-javascript-code
+https://stackoverflow.com/questions/1916711/programmatic-python-browser-with-javascript
+
+May need jQuery and some AJAX stuff to connect Python code to JavaScript. I read that JavaScript doesn't support multithreading well, but that has to be tested. On the other hand, writing our code in Python (or any other language), and then connecting it to JavaScript may make development easy and expandable, but the there may be a time lag in this cross-language communication. This would suck, because our physics simulator needs to be running real time. 
